@@ -25,7 +25,7 @@ Studiuję Analitykę danych w biznesie na Politechnice Opolskiej, semestr 2.
 - GitHub: [oliwka10500](https://github.com/oliwka10500)
 - Email: oliwiakusz.99@wp.pl
 
-## Mój workflow
+## Mój workflow 
 
 ```mermaid
 graph TD
